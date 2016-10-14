@@ -31,18 +31,18 @@ height = []
 times = []
 
 # Resources
-shipim = pygame.image.load('ship.png')
-bigship = pygame.image.load('bigship.png')
-damagedship = pygame.image.load('damagedship.png')
-bigdamagedship = pygame.image.load('bigdamagedship.png')
-panelim = pygame.image.load('panel.png')
-sky = pygame.image.load('sky.png')
-ground = pygame.image.load('ground.png')
-lever = pygame.image.load('lever.png')
-flag = pygame.image.load('flag.png')
+shipim = pygame.image.load('resource/ship.png')
+bigship = pygame.image.load('resource/bigship.png')
+damagedship = pygame.image.load('resource/damagedship.png')
+bigdamagedship = pygame.image.load('resource/bigdamagedship.png')
+panelim = pygame.image.load('resource/panel.png')
+sky = pygame.image.load('resource/sky.png')
+ground = pygame.image.load('resource/ground.png')
+lever = pygame.image.load('resource/lever.png')
+flag = pygame.image.load('resource/flag.png')
 number = [0]*10
 for i in range(10):
-    number[i] = pygame.image.load(str(i)+'.png')
+    number[i] = pygame.image.load('resource/'+ str(i)+'.png')
 
 # Set up background
 background = pygame.Surface((VIEW_WIDTH,VIEW_HEIGHT))
