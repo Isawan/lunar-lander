@@ -6,8 +6,8 @@ Hi, thanks for checking my submission of the lunar lander.
 
 Aim
 ---
-The aim of this game is to land the lunarlander from a height of 100m under constant gravitational acceleration 1m/s2
-To land safely, you must touch down at a speed of less than 10m/s.
+The aim of this game is to land the lunarlander from a height of 100m under constant gravitational acceleration 1m/s^2
+To land safely, you must touch down at a speed of less than 10 m/s.
 In addition you must also land the spacecraft the right way up.
 
 
