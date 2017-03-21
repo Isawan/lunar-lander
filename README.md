@@ -15,8 +15,8 @@ Additional features
 -------------------
 In addition to the specified functionality, this game contains a number of features:
 - 2D Rotation of the spacecraft
-- Fuel loss effects the acceleration of the ship
-- A fancy custom GUI
+- Fuel loss affects the acceleration of the ship
+- A fancy GUI
 - Keyboard control
 
 Controls
@@ -34,8 +34,6 @@ However, please note that a required package 'pygame' is only installed in anaco
 
 
 Reference
-
 ---------
-Earth from Moon image from NASA
 
-http://www.nasa.gov/sites/default/files/moon_and_earth_lroearthrise_frame_0.jpg
+[Earth from Moon image from NASA](http://www.nasa.gov/sites/default/files/moon_and_earth_lroearthrise_frame_0.jpg)
